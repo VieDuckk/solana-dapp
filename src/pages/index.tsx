@@ -3,7 +3,6 @@ import styles from "../styles/Home.module.css";
 import { AppBar } from "@/components/AppBar";
 import Head from "next/head";
 import WalletContextProvider from "@/components/WalletContextProvider";
-import { BalanceDisplay } from "@/components/BalanceDisplay";
 import { InputFormWallet } from "@/components/InputFormWallet";
 
 const Home: NextPage = (props) => {
@@ -16,7 +15,6 @@ const Home: NextPage = (props) => {
       <WalletContextProvider>
         <AppBar />
         <div className={styles.AppBody}>
-          <BalanceDisplay />
           <InputFormWallet />
         </div>
       </WalletContextProvider>

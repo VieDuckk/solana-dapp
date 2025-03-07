@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST='{"components\\\\AppBar.tsx -> @solana/wallet-adapter-react-ui":{"id":2409,"files":["static/chunks/409.c82725cc86272e6c.js"]}}';
+self.__REACT_LOADABLE_MANIFEST="{\"components\\\\AppBar.tsx -> @solana/wallet-adapter-react-ui\":{\"id\":\"components\\\\AppBar.tsx -> @solana/wallet-adapter-react-ui\",\"files\":[]}}"
